@@ -130,6 +130,10 @@ html,body{
   font-weight:lighter;
 
 }
+img{
+   height: 100%;
+  width: 100%;
+}
 
 #btns{
   display: flex;
